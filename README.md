@@ -1,5 +1,4 @@
 # mytitokpg-intro
-mytitokpg-intro
 👋 Hi, I’m @mytitokpg
 👀 I’m interested in crypto, technology, and I have x2 dogs.
 🌱 I’m currently learning
